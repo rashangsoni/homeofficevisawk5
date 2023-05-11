@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="jobSearchTest"
+           tests="3"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="11.361">
+  <properties />
+  
+  
+            <testcase name="anAustralianComingToUKForTourism" time="5.359" classname="homeofficevisawk5.testsuite.VisaConfomationTest" />
+                <testcase name="aColumbianNationalComingToTheUKToJoinAPartnerForALongStayTheyDoHaveAnArticle10Or20Card" time="2.367" classname="homeofficevisawk5.testsuite.VisaConfomationTest" />
+                <testcase name="aChileanComingToTheUKForWorkAndPlansOnStayingForLongerThanSixMonths" time="3.635" classname="homeofficevisawk5.testsuite.VisaConfomationTest" />
+      
+</testsuite>
